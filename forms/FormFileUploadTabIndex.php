@@ -13,8 +13,8 @@ namespace Contao;
  * Class FormFileUploadTabIndex
  *
  * Form field "file upload".
- * @copyright  2010 Helmut Schottmüller 
- * @author     Helmut Schottmüller <contao@aurealis.de>
+ * @copyright  Helmut Schottmüller 2010-2013
+ * @author     Helmut Schottmüller <https://github.com/hschottm/tabindex>
  * @package    Controller
  */
 class FormFileUploadTabIndex extends FormFileUpload
@@ -34,4 +34,3 @@ class FormFileUploadTabIndex extends FormFileUpload
 	}
 }
 
-?>
